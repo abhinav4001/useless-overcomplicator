@@ -58,8 +58,8 @@ We built an overengineered lexical obfuscation platform that:
 
 #### Installation
 ```bash
-git clone https://github.com/abhinav4001/overcomplicator.git
-cd overcomplicator
+git clone https://github.com/abhinav4001/useless-overcomplicator.git
+cd useless-overcomplicator
 npm install
 ```
 
