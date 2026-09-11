@@ -74,17 +74,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 18+ recomme
 
 ---
 
-## 🌐 Deploy to Vercel
-
-This repository is pre-configured for one-click deployment to Vercel:
-
-1. Push this repository to your GitHub account.
-2. Go to [vercel.com](https://vercel.com) and click **"Add New Project"**.
-3. Import your `useless` repository.
-4. Click **Deploy** — Vercel will automatically detect the Vite build settings and launch your application!
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
