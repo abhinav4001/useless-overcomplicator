@@ -49,8 +49,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 18+ recomme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhinav4001/useless.git
-   cd useless
+   git clone https://github.com/abhinav4001/overcomplicator.git
+   cd overcomplicator
    ```
 
 2. Install dependencies:
