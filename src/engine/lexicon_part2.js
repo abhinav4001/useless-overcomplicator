@@ -1,0 +1,142 @@
+﻿export const LEXICON_PART2 = {
+  legal: {
+    verbs: {
+      is: "shall be legally construed, adjudged, and deemed to be",
+      are: "are covenantally defined under statutory precedence as",
+      have: "retains legal title, lawful custody, and usufruct over",
+      has: "holds undivided equitable title unto",
+      want: "manifests formal intent and election to obtain",
+      need: "requires pursuant to mandatory compliance covenants",
+      eat: "effectuates consumption of foodstuff under health regulations",
+      drink: "ingests liquid sustenance in compliance with standard wellness laws",
+      sleep: "commences statutory periods of non-vigilant physical recumbency",
+      walk: "exercises easement of right-of-way through physical transit",
+      run: "accelerates pedestrian locomotion without assumption of liability",
+      say: "deposes, states, affirms, and puts on the formal record",
+      tell: "serves formal notice of material disclosure unto",
+      think: "harbors mental state or mens rea regarding",
+      know: "possesses verified actual or constructive notice that",
+      like: "grants revocable assent and favorable covenant toward",
+      love: "declares perpetual, unencumbered emotional tenancy for",
+      hate: "enters formal objection and repudiation concerning",
+      see: "witnesses via ocular perception without prejudice",
+      hear: "receives auditory testimonial evidence pertaining to",
+      buy: "purchases, acquires, and indemnifies title transfer of",
+      make: "executes, manufactures, and assigns copyright for"
+    },
+    nouns: {
+      i: "the Party of the First Part (hereinafter 'Affiant')",
+      me: "the undersigned designated signatory",
+      my: "the aforementioned Party’s proprietary",
+      you: "the Party of the Second Part (hereinafter 'Obligee')",
+      we: "the undersigned collectively bound parties",
+      food: "consumable organic commodities and culinary deliverables",
+      water: "potable aqueous fluids free from encumbrances",
+      money: "legal tender of the jurisdiction in lawful currency",
+      car: "registered motorized conveyance instrument",
+      phone: "telephonic communication recording apparatus",
+      computer: "data-processing electronic machine subject to IP covenants",
+      dog: "chattel animal of the domestic canine taxonomy",
+      cat: "domesticated feline chattel governed under local property statutes",
+      house: "real property premises and residential dwelling structure",
+      work: "contractually bargained-for consideration and personal services",
+      problem: "material adverse breach and dispute condition",
+      world: "terrestrial jurisdiction of this Court",
+      time: "the statutory period of limitation"
+    },
+    adjectives: {
+      good: "fully compliant and free of defect or encumbrance",
+      bad: "in manifest breach of statutory standards",
+      big: "of substantial and legally material magnitude",
+      small: "de minimis and non-actionable under the law",
+      happy: "enjoying quiet enjoyment under legal protections",
+      sad: "suffering demonstrable compensable distress",
+      hot: "exceeding thermal safety thresholds defined in Exhibit B",
+      cold: "lacking sufficient thermal caloric baseline",
+      tired: "experiencing legally disabling cognitive exhaustion",
+      fast: "operating with expeditious due diligence",
+      slow: "burdened by unreasonable and dilatory delay"
+    },
+    intros: [
+      "Now therefore, pursuant to Section 14.3(b) of the Uniform Jurisprudential Accord, notice is hereby given that",
+      "Witnesseth: The undersigned party deposes and covenants that, notwithstanding prior verbal stipulations,",
+      "Under penalty of statutory perjury and subject to standard indemnification covenants, be it recorded that",
+      "In the matter of the premises herein described, the evidence unequivocally establishes that"
+    ],
+    outros: [
+      "subject to standard hold-harmless provisions and arbitration covenants hereinafter detailed.",
+      "reserving all statutory rights, remedies, and defenses at law or in equity.",
+      "time being strictly of the essence, without waiver of any prior claim."
+    ]
+  },
+  scientific: {
+    verbs: {
+      is: "exhibits an identical molecular baseline to",
+      are: "demonstrate measurable macroscopic convergence with",
+      have: "maintain systemic biochemical equilibrium with",
+      has: "contains within its molecular lattice",
+      want: "manifests a homeostatic gradient favoring",
+      need: "faces thermodynamic entropy unless supplemented with",
+      eat: "masticate and metabolize combustible biomass",
+      drink: "absorb aqueous H2O molecules across the digestive epithelial barrier",
+      sleep: "enter stage-3 non-REM restorative slow-wave neurological cycle",
+      walk: "conduct bipedal kinetic locomotion across the substrate",
+      run: "exert maximal anaerobic muscular propulsion",
+      say: "emit modulated vocal acoustic pressure waves through the larynx",
+      tell: "transmit encoded acoustic waveform packets to",
+      think: "fire electrochemical synaptic cascades through the prefrontal cortex",
+      know: "encode neural memory traces across the hippocampus regarding",
+      like: "release dopamine and endorphin surges in reaction to",
+      love: "synthesize high concentrations of oxytocin and vasopressin for",
+      hate: "trigger amygdalar alarm signaling and cortisol secretion against",
+      see: "focus electromagnetic photons upon retinal photoreceptor rods and cones",
+      hear: "translate tympanic acoustic vibration into cochlear nerve impulses",
+      buy: "trade socioeconomic currency units for matter transfer",
+      make: "synthesize from elemental building blocks"
+    },
+    nouns: {
+      i: "the biological organism currently designated as myself",
+      me: "the subject specimen",
+      my: "this organism’s systemic",
+      you: "the observing secondary biological specimen",
+      we: "our isolated hominid test group",
+      food: "combustible organic biomass possessing caloric value",
+      water: "aqueous liquid dihydrogen monoxide (H2O)",
+      money: "quantized tokens of economic transactional potential",
+      car: "fossil-fueled thermodynamic wheeled locomotive vehicle",
+      phone: "microwavable radio-frequency digital transceiver",
+      computer: "semiconductor quantum-state computational micro-architecture",
+      dog: "quadrupedal Canis familiaris biological specimen",
+      cat: "feline carnivorous mammalian organism",
+      house: "stationary thermodynamic micro-climate dwelling enclosure",
+      work: "exertion of force times displacement across physical vectors",
+      problem: "high-entropy perturbation within the localized system",
+      world: "third planetary mass orbiting Sol at 1 AU",
+      time: "the relativistic spacetime fourth-dimensional coordinate"
+    },
+    adjectives: {
+      good: "displaying peak homeostatic stability",
+      bad: "exhibiting accelerated entropic decay",
+      big: "possessing elevated volumetric mass and dimensional magnitude",
+      small: "of microscopic or sub-millimeter proportions",
+      happy: "exhibiting elevated neuro-serotonergic equilibrium",
+      sad: "dominated by acute cortisol and noradrenaline elevation",
+      hot: "registering elevated Kelvin temperature and kinetic agitation",
+      cold: "marked by thermodynamic stagnation and low enthalpy",
+      tired: "saturated with intracellular adenosine and metabolic byproducts",
+      fast: "displaying high instantaneous acceleration and velocity",
+      slow: "exhibiting minimal kinetic velocity relative to reference frame"
+    },
+    intros: [
+      "Thermodynamic, spectroscopic, and cellular analysis unequivocally reveals that",
+      "Empirical observation across standardized laboratory parameters demonstrates that",
+      "Upon measuring kinetic energy distributions and bio-chemical markers, it is confirmed that",
+      "Within our planetary gravity well and standard atmospheric pressure (101.3 kPa), data confirms that"
+    ],
+    outros: [
+      "resulting in a localized shift in biochemical equilibrium and enthalpy.",
+      "in precise concordance with the Second Law of Thermodynamics.",
+      "thereby illustrating fundamental physical laws governing organic systems."
+    ]
+  }
+};

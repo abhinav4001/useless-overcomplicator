@@ -1,0 +1,142 @@
+﻿export const LEXICON = {
+  academic: {
+    verbs: {
+      is: "is methodologically categorized as",
+      are: "consistently manifest the empirical characteristics of",
+      have: "demonstrate possession of",
+      has: "exhibits the epistemological property of possessing",
+      want: "harbor a quantifiable teleological preference for",
+      need: "require as an indispensable systemic prerequisite",
+      eat: "engage in the metabolic assimilation of organic nutrients",
+      drink: "conduct the oral ingestion of potable aqueous solutions",
+      sleep: "enter an unperturbed state of circadian neurological torpor",
+      walk: "execute coordinated bipedal locomotive displacement",
+      run: "initiate rapid biomechanical acceleration across the terrestrial plane",
+      say: "formulate an acoustic or textual linguistic assertion",
+      tell: "transmit communicative information to a targeted peer entity",
+      think: "engage in recursive meta-cognitive conceptualization",
+      know: "maintain an epistemically verified cognitive schema regarding",
+      like: "exhibit a non-trivial psychological valence favoring",
+      love: "demonstrate an overwhelming affective neuro-chemical affinity toward",
+      hate: "harbor an intense psychometric aversion regarding",
+      see: "register via optical sensory apparatus",
+      hear: "detect via auditory neuro-sensory transduction",
+      buy: "consummate a financial transaction facilitating title transfer",
+      make: "fabricate through deliberate anthropogenic intervention"
+    },
+    nouns: {
+      i: "the undersigned investigating researcher",
+      me: "the principal investigator herein described",
+      my: "the primary author’s",
+      you: "the designated secondary observational subject",
+      we: "our collaborative scholarly collective",
+      food: "exogenous caloric nutritional substrates",
+      water: "potable dihydrogen monoxide solution",
+      money: "fiat currency units of socioeconomic exchange",
+      car: "internal combustion motorized vehicular conveyance",
+      phone: "cellular telecommunication and data retrieval apparatus",
+      computer: "silicon-based microprocessing computational unit",
+      dog: "domesticated Canis lupus familiaris specimen",
+      cat: "domesticated Felis catus quadriped",
+      house: "stationary residential architectural domicile",
+      work: "socioeconomic labor-intensive production output",
+      problem: "multifactorial systemic anomaly requiring resolution",
+      world: "terrestrial planetary biosphere",
+      time: "the unidirectional temporal continuum"
+    },
+    adjectives: {
+      good: "exhibiting optimal qualitative benchmarks",
+      bad: "sub-optimal with pronounced systemic deficiencies",
+      big: "of statistically significant macroscopic dimensions",
+      small: "possessing minimal spatial or volumetric parameters",
+      happy: "characterized by elevated dopamine-mediated subjective well-being",
+      sad: "exhibiting an acute depressive affective state",
+      hot: "demonstrating elevated thermal kinetic energy",
+      cold: "marked by sub-normal thermodynamic molecular activity",
+      tired: "displaying acute neuro-physiological lethargy",
+      fast: "characterized by high-velocity kinetic displacement",
+      slow: "exhibiting protracted temporal execution latency"
+    },
+    intros: [
+      "Within the rigorous epistemological framework of contemporary discourse, it can be empirically substantiated that",
+      "Drawing from peer-reviewed methodological precedents, scholarly consensus dictates that",
+      "A rigorous qualitative and quantitative examination of available phenomenological data indicates that",
+      "In accordance with established theoretical paradigms across the literature, it is observable that"
+    ],
+    outros: [
+      "thereby corroborating the epistemological thesis of contemporary scholars (et al., 2024).",
+      "warranting substantive further inquiry across interdisciplinary research bodies.",
+      "which substantiates our core hypothesis beyond the accepted p < 0.001 margin of error."
+    ]
+  },
+  corporate: {
+    verbs: {
+      is: "represents a key operational milestone where it",
+      are: "operate as core vertical stakeholders who",
+      have: "retain strategic ownership over",
+      has: "commands key enterprise leverage regarding",
+      want: "proactively target a high-leverage pipeline towards",
+      need: "face an immediate mission-critical bandwidth dependency on",
+      eat: "initiate a scheduled nutritional procurement sync",
+      drink: "rehydrate to maximize personal human capital uptime",
+      sleep: "execute overnight maintenance to restore synergistic bandwidth",
+      walk: "conduct a mobile hallway alignment sync",
+      run: "accelerate agile sprint cadence to sprint velocity",
+      say: "circle back and socialize an actionable thought-leadership update",
+      tell: "cascade mission-critical briefing documentation down the reporting tree",
+      think: "ideate a disruptive paradigm shift",
+      know: "maintain end-to-end visibility into",
+      like: "see immense mutual synergy and stakeholder upside in",
+      love: "identify a core cultural north star in",
+      hate: "flag substantial friction and non-strategic overhead in",
+      see: "gain real-time executive dashboard visibility into",
+      hear: "capture feedback loops originating from",
+      buy: "execute strategic capital expenditure for the acquisition of",
+      make: "orchestrate scalable deliverables around"
+    },
+    nouns: {
+      i: "the undersigned executive stakeholder",
+      me: "my operational capacity",
+      my: "our dedicated organizational",
+      you: "the cross-functional point-of-contact",
+      we: "our agile leadership consortium",
+      food: "caloric sustenance resources to optimize KPI bandwidth",
+      water: "corporate hydration solutions",
+      money: "liquid capital assets and strategic balance-sheet runway",
+      car: "executive ground-transportation asset",
+      phone: "mobile enterprise productivity terminal",
+      computer: "high-throughput cloud-connected workstation",
+      dog: "canine domestic morale-boosting stakeholder",
+      cat: "feline low-touch household affiliate",
+      house: "remote-first residential operational headquarters",
+      work: "value-accretive deliverables and sprint objectives",
+      problem: "un-optimized friction point in our go-to-market pipeline",
+      world: "global market ecosystem",
+      time: "billable calendar availability"
+    },
+    adjectives: {
+      good: "best-in-class and heavily optimized",
+      bad: "sub-optimal with significant compliance churn",
+      big: "enterprise-scale with hyper-growth potential",
+      small: "niche, lean, and highly agile",
+      happy: "experiencing maximum employee Net Promoter alignment",
+      sad: "exhibiting temporary morale headwinds",
+      hot: "experiencing intense market friction and high thermal traction",
+      cold: "depleted of thermal energy reserves",
+      tired: "facing acute bandwidth exhaustion and resource fatigue",
+      fast: "operating at hyper-velocity sprint speed",
+      slow: "encountering protracted cross-departmental bureaucratic lag"
+    },
+    intros: [
+      "Per our high-level cross-functional alignment session, we must double-click on the fact that",
+      "Moving forward, to optimize stakeholder value and maximize holistic bandwidth, be advised that",
+      "From an operational excellence perspective, circling back to our core deliverable confirms that",
+      "To ensure end-to-end synergy across our quarterly milestones, executive consensus establishes that"
+    ],
+    outros: [
+      "thereby unlocking proactive competitive advantage and quarterly EBITDA growth.",
+      "effective immediately, pending sign-off from key executive steering committees.",
+      "ensuring zero operational churn while moving the needle on critical deliverables."
+    ]
+  }
+};

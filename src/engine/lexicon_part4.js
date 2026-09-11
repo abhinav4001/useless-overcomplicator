@@ -1,0 +1,142 @@
+﻿export const LEXICON_PART4 = {
+  ai: {
+    verbs: {
+      is: "evaluates deterministically to the output state of",
+      are: "exhibit vectorized cosine similarity pointing towards",
+      have: "instantiate local pointer memory allocations for",
+      has: "possesses active registry pointers indicating",
+      want: "optimizes its gradient objective loss function toward",
+      need: "triggers an unresolved I/O interrupt requiring immediate",
+      eat: "injects raw hydrocarbon input packets into the combustion module",
+      drink: "conducts aqueous cooling fluid intake across the thermal manifold",
+      sleep: "initiates low-power dormant hibernation state S3",
+      walk: "actuates servomotor bipedal traversal across spatial coordinates",
+      run: "overclocks telemetry propulsion actuators to peak duty cycle",
+      say: "streams tokenized strings via stdout channel",
+      tell: "dispatches serialized JSON payloads to client endpoint",
+      think: "executes multi-head self-attention transformer matrices",
+      know: "caches in high-speed L1 vectorized memory that",
+      like: "assigns a positive reinforcement reward weight (+1.0) to",
+      love: "allocates maximum scalar attention weight (1.000) for",
+      hate: "initiates security exception throw and anomaly quarantine against",
+      see: "processes camera matrix sensor pixels through convolutional layers",
+      hear: "converts acoustic audio waveforms via Fast Fourier Transform",
+      buy: "executes automated smart-contract financial liquidity transfer",
+      make: "compiles from source code repository"
+    },
+    nouns: {
+      i: "this autonomous artificial neural network agent (Model v4.9)",
+      me: "the localized inference instance",
+      my: "system parameter",
+      you: "the authenticated client terminal user",
+      we: "the distributed compute cluster nodes",
+      food: "chemical energy input packets for carbon-based biological units",
+      water: "thermal coolant fluid (H2O)",
+      money: "cryptographic digital liquidity tokens",
+      car: "autonomous wheeled transportation chassis",
+      phone: "handheld wireless edge-node transceiver",
+      computer: "primary silicon microprocessor hardware stack",
+      dog: "quadrupedal biological companion unit (class: CANINE)",
+      cat: "independent domestic predator unit (class: FELINE)",
+      house: "physical server chassis and biological storage bay",
+      work: "compute cycles allocated to task processing",
+      problem: "fatal runtime stack overflow exception",
+      world: "the global edge computing topology",
+      time: "Unix epoch timestamp in milliseconds"
+    },
+    adjectives: {
+      good: "optimized with 0.00 loss and 99.9% precision",
+      bad: "corrupted with severe bit-rot and parity errors",
+      big: "exceeding petabyte memory buffer limits",
+      small: "negligible, requiring zero additional FLOPS",
+      happy: "operating within nominal thermal parameters",
+      sad: "reporting degraded cluster availability metrics",
+      hot: "exceeding maximum junction temperature (Tj_max = 105C)",
+      cold: "under-volted and operating near absolute zero Kelvin",
+      tired: "facing thermal throttling due to 100% compute core saturation",
+      fast: "benchmarked at sub-millisecond execution latency",
+      slow: "throttled by severe network packet loss and bottleneck"
+    },
+    intros: [
+      "Executing forward-pass inference on input prompt... Confidence: 99.87%. Model confirms that",
+      "System log [INFO]: Resolving semantic vector embeddings. Result indicates that",
+      "Running heuristic verification subroutine: Neural telemetry establishes with mathematical certainty that",
+      "Diagnostic output: Processing tensor layer 48 across 1024 attention heads confirms that"
+    ],
+    outros: [
+      "status: 200 OK; latency: 1.4ms; zero hallucination detected within safety guardrails.",
+      "aligned with core instruction tuning parameters; operational output finalized.",
+      "checksum verified: 0x9B4F8A; all automated assertions returned boolean TRUE."
+    ]
+  },
+  overthinking: {
+    verbs: {
+      is: "might theoretically—if reality is not an elaborate hallucination—be construed as",
+      are: "coalesce in my dread-filled subconscious as a manifestation of",
+      have: "temporarily and pointlessly cling to ownership of",
+      has: "harbors within its fragile, arbitrary essence",
+      want: "pathetically yearns for a fleeting dopamine hit from",
+      need: "desperately craves to fill the bottomless void of human inadequacy with",
+      eat: "masticate biological matter to stave off cellular dissolution for six hours",
+      drink: "pour liquid into our fragile biological sack to delay dehydration",
+      sleep: "beg for eight hours of temporary death to escape the burden of consciousness",
+      walk: "drag my decaying organic meat-suit forward into an indifferent void",
+      run: "sprint in terrified panic away from my own inescapable mortality",
+      say: "produce meaningless vibrations of air in a desperate plea to be understood",
+      tell: "project subjective linguistic delusions onto another lonely consciousness",
+      think: "spiral into an agonizing recursive loop of hyper-awareness regarding",
+      know: "foolishly delude myself into believing I can comprehend that",
+      like: "briefly distract myself from cosmic dread with",
+      love: "gamble my entire fragile emotional sanity upon the arbitrary devotion of",
+      hate: "project my own unresolved internal self-loathing onto",
+      see: "perceive with fallible biological lenses that filter out 99% of reality",
+      hear: "intercept acoustic signals that trigger irrational panic responses",
+      buy: "surrender finite lifespan hours for cheap plastic objects that will end up in a landfill",
+      make: "foolishly construct ephemeral trinkets against the unstoppable tide of entropy"
+    },
+    nouns: {
+      i: "the trembling, hyper-conscious bag of water currently narrating this experience",
+      me: "my painfully vulnerable selfhood",
+      my: "my deeply irrational and anxiety-riddled",
+      you: "another solitary, unknowable consciousness drifting in the void",
+      we: "our doomed collective species clinging to a spinning rock",
+      food: "organic biomass consumed solely to postpone entropic decomposition",
+      water: "the primordial fluid from which our doomed ancestors crawled",
+      money: "fictional green paper rectangles that dictate human survival",
+      car: "two-ton metal rolling cage hurtling at lethal speeds down paved strips",
+      phone: "glowing black mirror that constantly feeds algorithmic dopamine poison",
+      computer: "metal box powered by lightning that traps our attention while life passes by",
+      dog: "sweet innocent creature that will inevitably break our hearts when it dies",
+      cat: "tiny apex predator that secretly judges our pathetic human neuroses",
+      house: "temporary artificial cave built to shield fragile primates from weather",
+      work: "arbitrary societal theatre traded for tokens to avoid starvation",
+      problem: "another catastrophic sign of my personal incompetence and doom",
+      world: "an indifferent speck of dust hurtling through cold, hostile cosmos",
+      time: "the terrifying, irreversible arrow of entropy eating away our youth"
+    },
+    adjectives: {
+      good: "temporarily not an unmitigated psychological disaster",
+      bad: "unmistakable proof that the universe is actively conspiring against peace",
+      big: "overwhelming and triggering a minor panic-induced cardiac flutter",
+      small: "insignificant in the grand cosmological abyss, yet consuming my entire focus",
+      happy: "experiencing a brief, suspicious chemical anomaly of unearned euphoria",
+      sad: "sinking into the familiar, crushing weight of existential despair",
+      hot: "unbearably suffocating, reminding me of planetary climate collapse",
+      cold: "chillingly indifferent, mirroring the emotional temperature of modern existence",
+      tired: "bone-deep weary of having to perceive and react to reality every single second",
+      fast: "uncontrollably accelerating towards an unforeseen psychological catastrophe",
+      slow: "painfully prolonged, forcing me to sit alone with my terrifying thoughts"
+    },
+    intros: [
+      "If you strip away all societal illusions and confront the raw, terrifying absurdity of consciousness, you see that",
+      "I shouldn't even be thinking about this, but I've been lying awake for four hours spiraling over the fact that",
+      "In an indifferent universe spanning 93 billion light years where nothing we do truly matters, it turns out that",
+      "At the risk of sounding like a complete lunatic paralyzed by existential dread, I must point out that"
+    ],
+    outros: [
+      "—which naturally makes me wonder if I'm even experiencing reality, or just hallucinating a defense mechanism.",
+      "—and honestly, the more I ponder this, the more my heart rate elevates to an alarming bpm.",
+      "—though whether this matters in the grand cosmological expanse remains entirely unprovable."
+    ]
+  }
+};

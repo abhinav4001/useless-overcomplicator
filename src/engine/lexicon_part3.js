@@ -1,0 +1,142 @@
+﻿export const LEXICON_PART3 = {
+  royal: {
+    verbs: {
+      is: "is hereby decreed and ordained from on high to be",
+      are: "stand beneath our sceptre as noble reflections of",
+      have: "doth possess under crown charter and sovereign dominion",
+      has: "holdeth by divine celestial sanction",
+      want: "doth desire by royal prerogative",
+      need: "commandeth as an indispensable tribute for the crown",
+      eat: "partake of sumptuous banquets and royal confectioneries",
+      drink: "quaff royal nectar from golden goblets of the realm",
+      sleep: "repose our sovereign countenance beneath silk canopies",
+      walk: "process with majesty across our imperial domains",
+      run: "hasten with regal urgency through the palace halls",
+      say: "pronounce with sovereign authority unto all ears",
+      tell: "dispatch royal couriers bearing sovereign edicts to",
+      think: "meditate with high statecraft upon",
+      know: "possesseth infallible monarchical wisdom concerning",
+      like: "looketh with gracious imperial favor upon",
+      love: "bestoweth royal adoration and eternal courtly devotion unto",
+      hate: "banisheth with utter royal wrath and scorn",
+      see: "beholdeth through the unclouded royal gaze",
+      hear: "hearkeneth unto the humble petitions of",
+      buy: "requisition for the royal treasury through sovereign purchase",
+      make: "forge by royal charter and master artisan craft"
+    },
+    nouns: {
+      i: "We, by the Grace of High Heaven, Sovereign Monarch of this Realm",
+      me: "Our Royal Personage",
+      my: "our imperial",
+      you: "thou, our loyal and humble subject",
+      we: "Our Sovereign Majesty and the High Council",
+      food: "the sweetest delicacies and viands of the royal banquet table",
+      water: "pure crystalline waters of the sovereign fountainhead",
+      money: "golden sovereigns and royal minted bullion",
+      car: "gilded four-horse royal carriage with velvet appointments",
+      phone: "royal herald’s golden trumpet and parchment messenger",
+      computer: "enchanted calculating apparatus of the imperial grand astrologer",
+      dog: "noble royal hound of the sovereign hunting pack",
+      cat: "courtly velvet-pawed feline of the royal bedchamber",
+      house: "imperial palace of towering stone and soaring banners",
+      work: "the grand responsibilities of reigning and governance",
+      problem: "unruly sedition and perturbation within our borders",
+      world: "the vast kingdoms stretching beneath our imperial sun",
+      time: "the glorious march of our eternal reign"
+    },
+    adjectives: {
+      good: "exquisite, noble, and worthy of imperial commendation",
+      bad: "vile, treacherous, and offensive to the sovereign dignity",
+      big: "monumental and spanning the entire sovereign realm",
+      small: "humble and trifling in the presence of the throne",
+      happy: "radiant with sovereign joy and triumphal jubilee",
+      sad: "shrouded in imperial sorrow and courtly mourning",
+      hot: "blazing like the midsummer sun over the battlements",
+      cold: "chilled as the winter frost upon the mountain fortress",
+      tired: "wearied by the heavy golden burden of the crown",
+      fast: "swift as the royal falcon upon the wing",
+      slow: "deliberate as the ceremonial procession of state"
+    },
+    intros: [
+      "By imperial proclamation and sovereign mandate of our exalted lineage, let it be known that",
+      "Unto all princes, dukes, barons, and loyal subjects throughout the four corners of the realm:",
+      "From our high throne of ivory and gold, beneath the eternal royal standard, We proclaim that",
+      "Hear ye, hear ye! Let heralds sound the silver trumpets throughout the kingdom, for"
+    ],
+    outros: [
+      "as ordained beneath our sovereign seal, let none dare dispute upon pain of exile.",
+      "so decreed in the presence of the High Chancellor and peerage of the realm.",
+      "long may our glorious wisdom guide the people to peace and prosperity!"
+    ]
+  },
+  ancient: {
+    verbs: {
+      is: "hath ever been, and verily ever shall be,",
+      are: "doth stand as solemn emblems of",
+      have: "holdeth in stewardship from antiquity",
+      has: "doth keep beneath the ancient stars",
+      want: "doth yearn in the secret chambers of the heart for",
+      need: "doth cry aloud in bitter travail for",
+      eat: "breaketh the coarse barley loaf of mortal pilgrimage",
+      drink: "drinketh the draught of the ancient spring",
+      sleep: "falleth into the dark stillness of slumber",
+      walk: "treadeth the dusty pathways of the earth",
+      run: "fleeth with desperate haste across the heath",
+      say: "doth utter aloud in solemn lamentation",
+      tell: "imparteth the ancient lore and testament unto",
+      think: "pondereth in the watches of the deep night",
+      know: "beholdeth with visionary sight that",
+      like: "findeth sweetness and solace in",
+      love: "plighteth eternal troth and sacred adoration unto",
+      hate: "doth curse unto the seventh generation",
+      see: "beholdeth through the veil of mortal eyes",
+      hear: "hearkeneth unto the whispering winds of yore",
+      buy: "bartereth gold and silver shekels for",
+      make: "doth fashion with weary hands from the dust"
+    },
+    nouns: {
+      i: "mine own humble mortal spirit",
+      me: "this wayfaring pilgrim",
+      my: "mine own sorrowful",
+      you: "thou, traveler between two worlds",
+      we: "we frail children of the dust",
+      food: "manna and the humble loaves of the harvest",
+      water: "living water from the deep cisterns of the earth",
+      money: "shekels of silver and coin of bygone kings",
+      car: "creaking chariot of iron and timber",
+      phone: "scrying mirror whispering across the dark void",
+      computer: "mystic abacus inscribed with arcane symbols",
+      dog: "faithful hound watching beside the watchfire",
+      cat: "shadowy prowler of the moonlit roof-tiles",
+      house: "thatched homestead built upon the ancestral rock",
+      work: "toil and sweat of the brow under the relentless sun",
+      problem: "bitter affliction sent to test the faith of mortals",
+      world: "this valley of tears under heaven’s arch",
+      time: "the turning of the ancient wheel of ages"
+    },
+    adjectives: {
+      good: "righteous, pure, and blest of old",
+      bad: "grievous, tainted, and filled with bitter sorrow",
+      big: "mighty as the cedar trees of ancient Lebanon",
+      small: "frail as the morning dew upon the meadow",
+      happy: "singing with gladness like the morning stars",
+      sad: "clothed in sackcloth and weeping beside the waters",
+      hot: "scorching as the furnace of the desert wind",
+      cold: "frozen as the stones of the northern wilderness",
+      tired: "heavy with the weariness of seventy winters",
+      fast: "swift as an arrow loosed from a hunter’s bow",
+      slow: "lingering like shadows at the setting of the sun"
+    },
+    intros: [
+      "Hark, ye children of men, for verily as it was written in the ancient chronicles of yore,",
+      "Lo, from the dawn of creation even unto this twilight hour, let it be remembered that",
+      "Behold! A voice crieth out from the wilderness of time, declaring of a truth that",
+      "In the days of our fathers, when the earth was yet young, the elders did testify that"
+    ],
+    outros: [
+      "even so it was in days of old, and even so shall it remain till the end of time.",
+      "whilst the heavens endure and the foundations of the deep remain unshaken.",
+      "heed these words, lest the shadows swallow thy remembrance forevermore."
+    ]
+  }
+};
