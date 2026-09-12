@@ -112,10 +112,7 @@ graph TD
 
 ### Video / Presentation Link
 - **Demo Video**: [Google Drive Demo Video](https://drive.google.com/file/d/1sRZUNE2NqL1-eLQzRFskzahTp4rgft0A/view?usp=sharing)
-- **Video Link**: https://drive.google.com/file/d/1sRZUNE2NqL1-eLQzRFskzahTp4rgft0A/view?usp=sharing
 - **Live Web Application**: [https://overcomplicator.vercel.app/](https://overcomplicator.vercel.app/)
-
-*Video walkthrough and demonstration of Overcomplicator's lexical obfuscation engine, 8 complication archetypes, reverse translator, and real-time word inflation analytics.*
 
 ---
 
